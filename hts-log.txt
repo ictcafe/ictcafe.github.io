@@ -1,0 +1,18 @@
+HTTrack3.49-2+htsswf+htsjava launched on Fri, 23 Jul 2021 21:05:45 at https://vibhor9351.wixsite.com/website +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar
+(winhttrack -qwC2%Ps2u1%s%uN0%I0p3DaK0H0%kf2A25000%f#f -F "Mozilla/4.5 (compatible; HTTrack 3.0x; Windows 98)" -%F "<!-- Mirrored from %s%s by HTTrack Website Copier/3.x [XR&CO'2014], %s -->" -%l "en, *" https://vibhor9351.wixsite.com/website -O1 "C:\Users\VIBHU\Desktop\ICT Cafe\wix" +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+21:06:01	Error: 	"Not Found" (404) at link https://vibhor9351.wixsite.com/website/decodeURIComponent(e (from https://vibhor9351.wixsite.com/website)
+21:06:01	Error: 	"Not Found" (404) at link https://vibhor9351.wixsite.com/website/https: (from https://vibhor9351.wixsite.com/website)
+21:06:01	Error: 	"Not Found" (404) at link https://vibhor9351.wixsite.com/website/robots.txt (from https://vibhor9351.wixsite.com/website)
+21:06:01	Error: 	"Not Found" (404) at link https://vibhor9351.wixsite.com/website/feed.xml (from https://vibhor9351.wixsite.com/website)
+21:06:01	Error: 	"Not Found" (404) at link https://vibhor9351.wixsite.com/ (from https://vibhor9351.wixsite.com/website)
+21:06:01	Error: 	"Not Found" (404) at link https://vibhor9351.wixsite.com/website/version/ (from https://vibhor9351.wixsite.com/website)
+21:06:12	Error: 	"Not Found" (404) at link https://vibhor9351.wixsite.com/constants (from https://vibhor9351.wixsite.com/website/online-ordering)
+
+HTTrack Website Copier/3.49-2 mirror complete in 27 seconds : 58 links scanned, 50 files written (5223381 bytes overall) [1629502 bytes received at 60351 bytes/sec], 4798730 bytes transferred using HTTP compression in 27 files, ratio 23%, 4.8 requests per connection
+(7 errors, 0 warnings, 0 messages)
